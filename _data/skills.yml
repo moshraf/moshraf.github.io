@@ -1,12 +1,18 @@
 technical:
- - title: CSS and SCSS
-   level: Intermediate
- - title: HTML5
-   level: Intermediate
- - title: JavaScrpt
-   level: Advanced
- - title: ReactJS
-   level: Advanced
+  - title: Python
+    level: Intermediate
+  - title: R
+    level: Intermediate
+  - title: SQL
+    level: Intermediate
+  - title: Data Visualisation (Tableau, Power BI)
+    level: Intermediate
+  - title: Machine Learning Libraries (scikit-learn, TensorFlow)
+    level: Intermediate
+  - title: Excel
+    level: Advanced
+  - title: Statistical Analysis
+    level: Intermediate
 
 soft:
  - title: Writing

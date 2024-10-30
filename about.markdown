@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 # Hi! I’m Moshraf Hossain 
-I am a Data Science graduate from University of Western Sydney, and I also hold a degree in Geology and Information Technology. I am currently working as a GIS Analyst at Shariar GIS School. Before I started work as a GIS Analyst, I had worked nearly 10 years as an Exploration Geologist & Geotech and IT industry which gives me the ability to translate complex questions into understandable insights. My academic background in data science and statistics provided me with a solid foundation, which I have built upon with hands-on experience in predictive modelling, natural language processing, and deep learning. 
+I am a Data Science graduate from the University of Western Sydney, with additional degrees in Geology and Information Technology. Currently, I work as a GIS Analyst at Shariar GIS School. Prior to this role, I gained nearly 10 years of experience as an Exploration Geologist, Geotech professional, and in the IT industry, equipping me with a unique ability to interpret complex data and translate it into clear, actionable insights. My formal education in data science and statistics has provided a strong technical foundation, which I’ve enhanced through practical experience in predictive modelling, natural language processing, and deep learning.
 
 Do you want to work together? Please reach out to me by e-mail.
 
