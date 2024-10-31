@@ -16,7 +16,7 @@ header:
 description: This article showcases a tutorial that teaches learners how to code.
 ---
 
-> To see a preview of this project go to [Shuffling Cards on Codespaces](https://leighlawhon-studious-space-guacamole-6v5gj6qwgp43rp4q.github.dev/) and select the `index.html` file and then `go live` on the status bar.
+> To see a preview of this project go to [Shuffling Cards on Codespaces](https://frightening-spooky-werewolf-j9g6vj5jp95hp5pv-5500.app.github.dev/) and select the `index.html` file and then `go live` on the status bar.
 
 ![go live](/assets/images/golive.png)
 
