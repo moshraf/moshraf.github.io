@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Healthcare Data Insights Using SQL"
+title:  "Healthcare Insights"
 date:   2023-07-01 16:13:27 -0500
 tags: [tutorial, sql]
 author_profile: true
@@ -9,17 +9,15 @@ categories: work
 highlight_home: true
 tagline: "Uncovering Patterns in Healthcare Data"
 header:
-  overlay_image: https://images.unsplash.com/photo-1541278107931-e006523892df
-  teaser: https://images.unsplash.com/photo-1541278107931-e006523892df
+  overlay_image: https://plus.unsplash.com/premium_photo-1682130157004-057c137d96d5?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG9zcGl0YWx8ZW58MHx8MHx8fDA%3D
+  teaser: https://plus.unsplash.com/premium_photo-1682130157004-057c137d96d5?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG9zcGl0YWx8ZW58MHx8MHx8fDA%3D
   
-  caption: "Photo credit: [**Unsplash: Amanda Jones**](https://unsplash.com/@amandagraphc)"
+  caption: "Photo credit: [**Unsplash: Getty Images**](https://unsplash.com/@gettyimages)"
 description:  This article showcases a comprehensive SQL portfolio project focused on hospital data analysis, highlighting key SQL queries and insights that demonstrate data manipulation and analysis skills.
 ---
 
-# SQL Portfolio Project Documentation: Hospital Datasets Analysis
-
-## Objective
-The objective of this project is to demonstrate the use of SQL to extract meaningful insights from a hospital database. This includes analyzing patient demographics, hospital stays, risk factors, and other relevant metrics to improve hospital operations and patient care.
+# Introduction
+The project is to demonstrate the use of SQL to extract meaningful insights from a hospital database. This includes analysing patient demographics, hospital stays, risk factors, and other relevant metrics to improve hospital operations and patient care.
 
 ## Datasets
 - **appointment_analysis**: Contains information about patient appointments including date, time, and department.
