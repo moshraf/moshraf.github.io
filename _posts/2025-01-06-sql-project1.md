@@ -2,7 +2,7 @@
 layout: posts
 title:  "Healthcare Insights"
 date:   2023-07-01 16:13:27 -0500
-tags: [tutorial, sql]
+tags: [sql]
 author_profile: true
 author: Moshraf Hossain
 categories: work
