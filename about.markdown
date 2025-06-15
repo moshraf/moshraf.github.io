@@ -21,9 +21,9 @@ Builder of robust data ecosystems with 99.5%+ accuracy, implementing ETL pipelin
 ## What Sets Me Apart
 My unique multidisciplinary background allows me to see patterns others miss and solve problems others can't. I combine scientific rigor with creative innovation to deliver transformation, not just reports. Where others find correlations, I uncover causations that drive sustainable competitive advantage.
 ## Results That Matter
-✓ Marketing campaigns optimized for 18% higher conversion rates  
+✓ Marketing campaigns optimised for 18% higher conversion rates  
 ✓ Operational processes improved by 40% efficiency gains  
-✓ Predictive models reducing costs while maximizing ROI  
+✓ Predictive models reducing costs while maximising ROI  
 ✓ Real-time dashboards enabling lightning-fast strategic pivots 
 
 Ready to unlock your data's transformative power? Whether you need advanced machine learning models, executive dashboards, or strategic analytics—I deliver exceptional results that accelerate organisational success.
