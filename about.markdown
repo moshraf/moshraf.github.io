@@ -25,8 +25,8 @@ My unique multidisciplinary background allows me to see patterns others miss and
 ✓ Operational processes improved by 40% efficiency gains  
 ✓ Predictive models reducing costs while maximizing ROI  
 ✓ Real-time dashboards enabling lightning-fast strategic pivots   
-Ready to unlock your data's transformative power? Whether you need advanced machine learning models, executive dashboards, or strategic analytics—I deliver exceptional results that accelerate organisational success.
-Let's build something extraordinary together. Connect with me today.
+#### Ready to unlock your data's transformative power? Whether you need advanced machine learning models, executive dashboards, or strategic analytics—I deliver exceptional results that accelerate organisational success.
+#### Let's build something extraordinary together. Connect with me today.
 
 
 ## My Skills
