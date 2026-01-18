@@ -3,35 +3,96 @@ layout: archive
 title: About
 permalink: /about/
 ---
-# Hi! I’m Moshraf Hossain 
-I'm a strategic Data Scientist and Analytics who transforms complex data into competitive advantages. With advanced degrees in Data Science, Geology, and Information Technology, I bring 15+ years of elite cross-industry experience that bridges technical mastery with executive-level business impact.
-I don't just analyse data—I architect intelligent solutions that drive measurable results: 22% marketing ROI improvements, 45% stakeholder engagement increases, and 60% operational efficiency gains.
 
-# Core Expertise
-### 🚀 Advanced Analytics & AI
-Master of machine learning, predictive modelling, and AI platforms. I build algorithms that optimise multi-million-dollar budgets and deliver breakthrough forecasting solutions.
-###  📊 Executive Business Intelligence
-Architect of enterprise Power BI and Tableau dashboards that transform C-suite decision-making. My visualisations don't just display data—they compel strategic action.
-### 🎯 Strategic Data Analysis
-Expert in translating complex business challenges into elegant analytical frameworks. I uncover hidden opportunities worth millions through deep-dive statistical investigations.
-### 🎨 Data Storytelling Mastery
-I craft compelling data narratives that captivate audiences from technical teams to board members, making complex insights beautifully accessible and actionable.
-### ⚡ Data Architecture & Governance
-Builder of robust data ecosystems with 99.5%+ accuracy, implementing ETL pipelines and governance frameworks that scale enterprise operations.
-## What Sets Me Apart
-My unique multidisciplinary background allows me to see patterns others miss and solve problems others can't. I combine scientific rigor with creative innovation to deliver transformation, not just reports. Where others find correlations, I uncover causations that drive sustainable competitive advantage.
-## Results That Matter
-✓ Marketing campaigns optimised for 18% higher conversion rates  
-✓ Operational processes improved by 40% efficiency gains  
-✓ Predictive models reducing costs while maximising ROI  
-✓ Real-time dashboards enabling lightning-fast strategic pivots 
+# Hi! I'm Moshraf Hossain
 
-Ready to unlock your data's transformative power? Whether you need advanced machine learning models, executive dashboards, or strategic analytics—I deliver exceptional results that accelerate organisational success.
+**Data Visualisation Analyst transforming complex data into actionable business insights.** With a background spanning geology, geotechnical engineering, IT, and GIS, I bring a unique analytical perspective that bridges technical expertise with practical business impact.
 
-Let's build something extraordinary together. Connect with me today.
+I specialise in creating interactive dashboards, automated workflows, and spatial analysis solutions that help organisations make faster, data-driven decisions. Using Python, SQL, Tableau, Power BI, and GIS tools, I turn raw data into insights that drive measurable results.
 
+---
+
+## What I Deliver
+
+**Data Visualisation & Business Intelligence**  
+Design interactive Tableau and Power BI dashboards to track KPIs, marketing campaigns, R&D investments, and operational performance.
+
+**Data Analysis & Insights**  
+Conduct customer segmentation, trend analysis, and competitive intelligence to support strategic decision-making and business planning.
+
+**Workflow Automation**  
+Build Python, SQL, and VBA pipelines that automate reporting processes, reducing manual work from days to hours.
+
+**Geospatial Analysis**  
+Combine GIS insights with business intelligence to support operational planning, demographic analysis, and location-based decision-making.
+
+---
+
+## Key Achievements
+
+- Developed dashboards tracking social media metrics and marketing performance across multiple channels  
+- Automated reporting workflows, reducing manual processing time by 70%  
+- Delivered GIS analysis and spatial visualisations supporting operational and R&D planning  
+- Integrated diverse data sources (SQL, Oracle, Teradata, Google Cloud Platform) into unified reporting systems  
+- Improved geospatial workflow efficiency by 60% through automated data preparation scripts
+
+---
+
+## Professional Background
+
+My career path reflects continuous growth and skill development:
+
+**Exploration Geologist (2008–2015)** → **Geotechnical Lab Technician (2015–2020)** → **IT Support & Data Analyst (2020–2021)** → **Data Analyst (2022–2023)** → **GIS Analyst (2023–2024)** → **Data Visualisation Analyst (2022–Present)**
+
+This diverse experience—from field geology to data visualisation—enables me to understand data from collection through to actionable insights, making me particularly effective for infrastructure, environmental, and cross-functional analytics projects.
+
+---
+
+## Education & Credentials
+
+**Graduate Diploma in Data Science** – University of Western Sydney, NSW  
+
+**Master of Information System Management** – Central Queensland University, QLD  
+
+**Graduate Diploma of Information Technology** – University of Southern Queensland, QLD  
+
+**Master of Science (MSc) in Geology** – University of Dhaka, Bangladesh  
+
+**Bachelor of Science (Honours) in Geology** – University of Dhaka, Bangladesh  
+
+**Professional Certifications:**  
+- Tableau Desktop Certificate (LinkedIn Learning)  
+- Microsoft Power BI Data Analyst Certificate (LinkedIn Learning)
+
+---
+
+## Technical Toolkit
+
+**Data Visualisation:** Tableau, Power BI, Advanced Excel  
+**Programming & Data:** Python (Pandas, NumPy, GeoPandas), SQL, VBA  
+**GIS & Spatial Analysis:** ArcGIS, GeoPandas, spatial data processing  
+**Cloud & Tools:** Google Cloud Platform, Git, Power Query, ETL automation
+
+---
+
+## Currently
+
+I work as a **Data Visualisation Analyst at Musimorph** in Sydney, developing analytics solutions for marketing, R&D, and competitive intelligence.
+
+I'm open to opportunities as a **Data Analyst, Business Intelligence Analyst, or GIS Analyst** where I can apply proven expertise in data visualisation, automation, and spatial analysis to drive measurable business outcomes.
+
+---
+
+## Let's Connect
+
+**📊 Portfolio:** [https://moshraf.github.io](https://moshraf.github.io/)  
+**💼 LinkedIn:** [https://linkedin.com/in/moshrafhossain](https://linkedin.com/in/moshrafhossain)  
+**📧 Email:** mmoshraf@gmail.com
+
+---
 
 ## My Skills
+
 ### Technical Skills
 
 {% include technicalskills.md %}
