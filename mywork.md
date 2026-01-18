@@ -5,7 +5,6 @@ author_profile: true
 author: Moshraf Hossain
 ---
 
-# My Work
 
 Welcome to my portfolio of **data visualisation, analytics, automation, and GIS projects**.  
 This page showcases how I apply data to solve real business problems across **marketing, operations, R&D, and business intelligence**.
