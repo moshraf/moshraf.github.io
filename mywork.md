@@ -84,4 +84,4 @@ I’m open to opportunities as a **Data Analyst, Business Intelligence Analyst, 
 **📧 Email:** [mmoshraf@gmail.com](mailto:mmoshraf@gmail.com)  
 **💼 LinkedIn:** [linkedin.com/in/moshrafhossain](https://linkedin.com/in/moshrafhossain)  
 **🌐 GitHub:** [github.com/moshraf](https://github.com/moshraf)  
-**📄 Resume:** [Download PDF](/assets/Resume_Moshraf_Hossain.pdf)
+**📄 Resume:** [Download PDF](/assets/resume/moshraf_hossain_resume.pdf)
