@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: posts
 title:  "Training Analytics Dashboard"
-date:   2026-02-14 10:00:00 +1100
-tags: [power-bi, data-analytics, dax, business-intelligence, portfolio]
+date:   2026-02-13 
+tags: [power-bi]
 author_profile: true
 author: Moshraf Hossain
 categories: work
@@ -622,4 +622,4 @@ I'm actively seeking **Data Analyst** opportunities where I can apply Power BI, 
 ---
 
 **Tags:** #PowerBI #DataAnalytics #DAX #BusinessIntelligence #DataModelling #PortfolioProject #DataScience
-```
+
