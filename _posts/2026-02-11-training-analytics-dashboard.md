@@ -9,8 +9,9 @@ categories: work
 highlight_home: true
 tagline: "Transforming fragmented training data into executive-ready insights"
 header:
-  overlay_image: /assets/images/training-dashboard/training-dashboard-banner.png
-  teaser: /assets/images/training-dashboard/training-dashboard-teaser.png
+  overlay_image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&auto=format&fit=crop
+  teaser: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&auto=format&fit=crop&q=80
+  caption: "Photo credit: [**Unsplash: Carlos Muza**](https://unsplash.com/@kmuza)"
   caption: "Power BI Dashboard | Data Analytics Portfolio Project"
 description: An end-to-end Power BI solution demonstrating DAX proficiency, star schema data modelling, and business intelligence capabilities through interactive training analytics.
 ---
