@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Training Analytics Dashboard"
 date:   2026-02-14 10:00:00 +1100
 tags: [power-bi, data-analytics, dax, business-intelligence, portfolio]
