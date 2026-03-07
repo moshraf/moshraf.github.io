@@ -9,9 +9,9 @@ categories: work
 highlight_home: true
 tagline: "Uncovering the drivers of customer churn through end-to-end Python data analysis"
 header:
-  overlay_image: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&auto=format&fit=crop
-  teaser: https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&auto=format&fit=crop&q=80
-  caption: "Photo credit: [**Unsplash: Blake Wisz**](https://unsplash.com/@blakewisz)"
+  overlay_image: https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&auto=format&fit=crop
+  teaser: https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&auto=format&fit=crop&q=80
+  caption: "Photo credit: Unsplash: Avery Evans"(https://unsplash.com/@blakewisz)"
 description: An end-to-end Python data analysis project uncovering the key drivers of customer churn across 10,127 bank customers — covering EDA, feature engineering, statistical analysis, Random Forest modelling, and data storytelling.
 ---
 Globe Bank International — Customer Retention Analysis
@@ -54,7 +54,7 @@ Encoding applied:
 ColumnMethodDetailAttrition_FlagBinaryExisting Customer = 0, Attrited Customer = 1Education_LevelOrdinalUneducated (0) through Doctorate (6)Income_CategoryOrdinalLess than $40K (0) through $120K+ (5)Card_CategoryOrdinalBlue (0) through Platinum (3)GenderBinaryM = 1, F = 0Marital_StatusOne-hotDummy variables, drop first
 Features engineered:
 FeatureBusiness MeaningTrans_Freq_RatioHow actively the customer transacts relative to tenureInactivity_RateProportion of the year spent inactiveContact_IntensityContact frequency relative to tenureUtilisation_BandUtilisation ratio binned into Very Low / Low / Medium / High
-Output: data/processed/bank_churners_clean.csv — 10,127 rows × 30 columns
+Output: data/processed/bank_churners_clean.csv — 10,127 rows x 30 columns
 
 Stage 3 — Analysis and Insights
 Notebook: 03_analysis_insights.ipynb
@@ -72,60 +72,60 @@ Single customers churn at a slightly higher rate than married customers
 Minimal difference in churn rate between male and female customers
 
 Statistical comparisons — Churned vs Retained
-Welch's independent samples t-tests were run for all 17 numeric features, with Cohen's d calculated to measure practical effect size. Statistically significant differences (p < 0.05) were found for the majority of features.
+Welch's independent samples t-tests were run for all 17 numeric features, with Cohen's d calculated to measure practical effect size.
 FeatureDirectionInterpretationTotal_Trans_CtHigher in retainedRetained customers transact far more frequentlyTotal_Trans_AmtHigher in retainedRetained customers spend significantly moreMonths_Inactive_12_monHigher in churnedChurned customers were inactive for longerTotal_Revolving_BalHigher in retainedRetained customers carry higher revolving balancesContacts_Count_12_monHigher in churnedChurned customers contacted the bank more often
 Key churn driver identification — Random Forest
-A Random Forest classifier (100 estimators, random_state=42) was fitted to rank features by predictive importance. Used purely as a feature importance tool, not for prediction.
+A Random Forest classifier (100 estimators, random_state=42) was fitted to rank features by predictive importance.
 RankFeatureImportance1Total_Trans_CtHighest2Total_Trans_AmtHigh3Total_Ct_Chng_Q4_Q1High4Total_Amt_Chng_Q4_Q1Medium-High5Months_Inactive_12_monMedium-High
 Transaction behaviour dominates churn prediction — both the volume and trend of transactions are far more predictive than demographic characteristics.
 
 Stage 4 — Visualisation and Storytelling
 Notebook: 04_visualisation_storytelling.ipynb
 The final stage translates analysis into polished, portfolio-ready visualisations and actionable business recommendations.
-OutputDescriptionExecutive DashboardKPI cards, churn split, transaction comparison, distribution chartTop Churn Drivers ChartRanked horizontal bar chart with colour-coded importance tiersDemographic BreakdownInteractive Plotly dashboard + static PNG across all 5 segmentsRecommendations CardDark-theme visual card with prioritised business actions
+OutputDescriptionExecutive DashboardKPI cards, churn split, transaction comparison, distribution chartTop Churn Drivers ChartRanked horizontal bar chart with colour-coded importance tiersDemographic BreakdownInteractive Plotly dashboard and static PNG across all 5 segmentsRecommendations CardDark-theme visual card with prioritised business actions
 
 🗂️ Project Structure
 globe-bank-retention-analysis/
-│
-├── data/
-│   ├── raw/                               ← Original dataset (never modified)
-│   └── processed/                         ← Cleaned, analysis-ready data
-│
-├── notebooks/
-│   ├── 01_setup_exploration.ipynb         ← Stage 1: EDA and data inspection
-│   ├── 02_cleaning_transformation.ipynb   ← Stage 2: Cleaning and feature engineering
-│   ├── 03_analysis_insights.ipynb         ← Stage 3: Statistical analysis and churn drivers
-│   └── 04_visualisation_storytelling.ipynb ← Stage 4: Dashboards and recommendations
-│
-├── outputs/
-│   ├── figures/                           ← Saved .png charts
-│   └── reports/                           ← Saved .html interactive charts
-│
-├── .gitignore
-├── README.md
-└── requirements.txt
+|
+|-- data/
+|   |-- raw/                               <- Original dataset (never modified)
+|   |-- processed/                         <- Cleaned, analysis-ready data
+|
+|-- notebooks/
+|   |-- 01_setup_exploration.ipynb         <- Stage 1: EDA and data inspection
+|   |-- 02_cleaning_transformation.ipynb   <- Stage 2: Cleaning and feature engineering
+|   |-- 03_analysis_insights.ipynb         <- Stage 3: Statistical analysis and churn drivers
+|   |-- 04_visualisation_storytelling.ipynb <- Stage 4: Dashboards and recommendations
+|
+|-- outputs/
+|   |-- figures/                           <- Saved .png charts
+|   |-- reports/                           <- Saved .html interactive charts
+|
+|-- .gitignore
+|-- README.md
+|-- requirements.txt
 
 🛠️ Tools and Libraries
 CategoryToolsLanguagePython 3.13Data manipulationpandas, numpyVisualisationmatplotlib, seaborn, PlotlyStatistical analysisscipy (Welch's t-test, Cohen's d)Machine learningscikit-learn (Random Forest)EnvironmentJupyter Notebook, VS Code
 
 💡 Business Recommendations
-PriorityFindingRecommended Action🔴 HighLow transaction activity is the #1 churn signalTrigger automated re-engagement campaigns when transaction count drops below a customer's 3-month rolling average🔴 HighInactive customers churn at significantly higher ratesImplement 60-day inactivity alerts with personal outreach from a relationship manager🟠 MediumFewer bank products = lower retentionCross-sell complementary products to single-product customers to deepen the relationship🟠 MediumHigh contact frequency signals dissatisfactionFlag customers with 3+ contacts in 12 months for a proactive satisfaction review🟡 LowLower income segments churn at higher ratesReview product-market fit and consider a tailored entry-level card with lower fees
+PriorityFindingRecommended ActionHIGHLow transaction activity is the #1 churn signalTrigger automated re-engagement campaigns when transaction count drops below the 3-month rolling averageHIGHInactive customers churn at significantly higher ratesImplement 60-day inactivity alerts with personal outreach from a relationship managerMEDIUMFewer bank products = lower retentionCross-sell complementary products to single-product customersMEDIUMHigh contact frequency signals dissatisfactionFlag customers with 3+ contacts in 12 months for a proactive satisfaction reviewLOWLower income segments churn at higher ratesReview product-market fit and consider a tailored entry-level card with lower fees
 
 🎓 Reflections and Key Takeaways
 Technical lessons:
 
-Transaction behaviour dominates demographic features — I expected demographic variables like age or income to be strong predictors, but transaction count and amount were far more predictive. The data tells the real story.
+Transaction behaviour dominates demographic features — Transaction count and amount were far more predictive than age or income. The data tells the real story.
 Effect size matters as much as p-values — With 10,000+ rows, almost everything is statistically significant. Cohen's d was essential for understanding which differences are practically meaningful.
 Feature engineering adds genuine signal — The engineered Trans_Freq_Ratio and Inactivity_Rate features captured behavioural patterns that raw columns missed.
 
 Design lessons:
 
-Storytelling is a skill separate from analysis — Stage 4 required me to think about what a non-technical stakeholder needs to see, not just what the data shows.
-Consistent visual design builds trust — Using the same colour palette (blue for retained, red for churned) across all charts makes the story immediately readable without a legend.
+Storytelling is a skill separate from analysis — Stage 4 required thinking about what a non-technical stakeholder needs to see, not just what the data shows.
+Consistent visual design builds trust — Using the same colour palette (blue for retained, red for churned) across all charts makes the story immediately readable.
 
 Process lessons:
 
-Working notebook by notebook keeps complexity manageable — Splitting the project into four focused notebooks made debugging easier and the final portfolio much cleaner to present.
+Working notebook by notebook keeps complexity manageable — Splitting the project into four focused notebooks made debugging easier and the final portfolio much cleaner.
 A beginner can build production-quality work — This was my first Python project. Focusing on fundamentals, clean structure, and clear communication produced a result I am genuinely proud of.
 
 
@@ -140,4 +140,4 @@ LinkedIn: https://www.linkedin.com/in/moshrafhossain/
 GitHub: https://github.com/moshraf
 
 Built with: Python 3.13 | pandas | matplotlib | seaborn | Plotly | scikit-learn | Jupyter | VS Code
-Project Duration: March 2026 | Status: Complete and Portfolio-Ready ✅
+Project Duration: March 2026 | Status: Complete and Portfolio-Ready
