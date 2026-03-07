@@ -115,26 +115,25 @@ I built a **four-stage Python analysis pipeline** that transforms raw customer d
 
 ## 🗂️ Project Structure
 
-globe-bank-retention-analysis/
-|
-|-- data/
-| |-- raw/ <- Original dataset (never modified)
-| |-- processed/ <- Cleaned, analysis-ready data
-|
-|-- notebooks/
-| |-- 01_setup_exploration.ipynb
-| |-- 02_cleaning_transformation.ipynb
-| |-- 03_analysis_insights.ipynb
-| |-- 04_visualisation_storytelling.ipynb
-|
-|-- outputs/
-| |-- figures/ <- Saved .png charts
-| |-- reports/ <- Saved .html interactive charts
-|
-|-- .gitignore
-|-- README.md
-|-- requirements.txt
 
+globe-bank-retention-analysis/
+├── data/
+│ ├── raw/ ← Original dataset (never modified)
+│ └── processed/ ← Cleaned, analysis-ready data
+│
+├── notebooks/
+│ ├── 01_setup_exploration.ipynb
+│ ├── 02_cleaning_transformation.ipynb
+│ ├── 03_analysis_insights.ipynb
+│ └── 04_visualisation_storytelling.ipynb
+│
+├── outputs/
+│ ├── figures/ ← Saved .png charts
+│ └── reports/ ← Saved .html interactive charts
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
 
 ---
 
