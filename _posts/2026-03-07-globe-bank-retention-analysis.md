@@ -115,6 +115,7 @@ I built a **four-stage Python analysis pipeline** that transforms raw customer d
 
 ## 🗂️ Project Structure
 
+
 ```
 globe-bank-retention-analysis/
 ├── data/
