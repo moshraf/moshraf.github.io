@@ -6,9 +6,11 @@ permalink: /about/
 
 # Hi! I'm Moshraf Hossain
 
-**Data Visualisation Analyst transforming complex data into actionable business insights.** With a background spanning geology, geotechnical engineering, IT, and GIS, I bring a unique analytical perspective that bridges technical expertise with practical business impact.
+Six years mapping rock formations and testing soil in the field. The last few years building dashboards and pipelines in an office. Right now I do both — because the same instinct (where is this happening, and why does it matter) drives each one.
 
-I specialise in creating interactive dashboards, automated workflows, and spatial analysis solutions that help organisations make faster, data-driven decisions. Using Python, SQL, Tableau, Power BI, and GIS tools, I turn raw data into insights that drive measurable results.
+I started as an exploration geologist and geotechnical analyst, working with coordinate-based field data to make calls that had real engineering and financial consequences. When I moved into data analytics, that spatial instinct came with me. Over 3+ years as a Data Analyst, I've built my career on the data side — Python, SQL, dashboards, automation — while keeping GIS active alongside it, not as a leftover from a former life, but a skill I use deliberately.
+
+Today I design interactive dashboards, build automated data pipelines, and apply spatial analysis where location genuinely changes the answer — turning raw, messy data into insights an organisation can actually act on.
 
 ---
 
@@ -42,13 +44,15 @@ Combine GIS insights with business intelligence to support operational planning,
 
 My career path reflects continuous growth and skill development:
 
-**Exploration Geologist (2008–2015)** → **Geotechnical Lab Technician (2015–2020)** → **IT Support & Data Analyst (2020–2021)** → **Data Analyst (2022–2023)** → **GIS Analyst (2023–2024)** → **Data Visualisation Analyst (2022–Present)**
+**Exploration Geologist (2008–2015)** → **Geotechnical Lab Technician (2015–2020)** → **IT Support & Data Analyst (2020–2021)** → **Data Analyst (2022–2023)** → **GIS Analyst (2023–2024)** → **Data Visualisation Analyst (2024–Present)**
 
 This diverse experience—from field geology to data visualisation—enables me to understand data from collection through to actionable insights, making me particularly effective for infrastructure, environmental, and cross-functional analytics projects.
 
 ---
 
 ## Education & Credentials
+
+**Graduate Certificate in Geospatial Intelligence** – Curtin University, WA *(In progress)*  
 
 **Graduate Diploma in Data Science** – University of Western Sydney, NSW  
 
@@ -70,7 +74,7 @@ This diverse experience—from field geology to data visualisation—enables me 
 
 **Data Visualisation:** Tableau, Power BI, Advanced Excel  
 **Programming & Data:** Python (Pandas, NumPy, GeoPandas), SQL, VBA  
-**GIS & Spatial Analysis:** ArcGIS, GeoPandas, spatial data processing  
+**GIS & Spatial Analysis:** ArcGIS Pro, QGIS, GeoPandas, spatial data processing  
 **Cloud & Tools:** Google Cloud Platform, Git, Power Query, ETL automation
 
 ---
