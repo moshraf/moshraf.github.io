@@ -8,9 +8,9 @@ author_profile: true
 
 # Hi! I'm Moshraf Hossain
 
-**Data Visualisation Analyst** helping organisations turn complex data into actionable insights through interactive dashboards, workflow automation, and spatial analysis.
+Six years mapping rock formations and testing soil in the field. The last few years building dashboards and pipelines in an office. Right now I do both — because the same instinct (where is this happening, and why does it matter) drives each one.
 
-I specialise in **Tableau, Power BI, Python, SQL, and GIS**, delivering analytics solutions across marketing, R&D, and operations. With a unique background in geology and data science, I combine technical expertise with creative problem-solving to drive measurable business impact.
+I'm a **Data Analyst** with 3+ years of experience and hands-on **GIS Analyst** experience, turning complex business and geospatial data into decision-ready insights. I specialise in **Tableau, Power BI, Python, SQL, and GIS (ArcGIS Pro, QGIS)**, delivering analytics solutions across marketing, R&D, and operations. With a background spanning geology, geotechnical engineering, and data science, I bring a practical, well-rounded perspective to problem-solving.
 
 **Currently:** Data Visualisation Analyst at Musimorph, Sydney  
 **Open to:** Data Analyst, Business Intelligence Analyst, or GIS Analyst roles
@@ -33,7 +33,7 @@ Explore my **[portfolio of projects](/mywork)** showcasing dashboards, automatio
 
 **Data Visualisation & BI:** Tableau, Power BI, Advanced Excel – building dashboards and reporting frameworks  
 **Programming & Automation:** Python (Pandas, NumPy, GeoPandas), SQL, VBA – automating workflows and ETL pipelines  
-**GIS & Spatial Analysis:** ArcGIS, GeoPandas, location intelligence, geospatial visualisations  
+**GIS & Spatial Analysis:** ArcGIS Pro, QGIS, GeoPandas, location intelligence, geospatial visualisations  
 **Cloud & Tools:** Google Cloud Platform, Git, Power Query  
 
 ---
