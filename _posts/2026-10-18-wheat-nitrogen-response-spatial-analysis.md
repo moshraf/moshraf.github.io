@@ -14,8 +14,7 @@ header:
 description: "Spatial analysis of wheat yield and nitrogen treatments using ArcGIS Pro for mapping and Moving Window Kriging, and Jupyter Notebook for pairwise Z-tests. Guided university exercise using a supplied teaching dataset with fabricated locations."
 ---
 
-**GIS Portfolio Project | ArcGIS Pro, Geostatistics and Spatial Statistics**
-
+**GIS Portfolio Project — ArcGIS Pro, Geostatistics and Spatial Statistics**
 > **About this project:** a guided laboratory exercise for SPAT5008 Applied GIS at Curtin University, using a supplied teaching dataset with fabricated locations. It demonstrates GIS and statistical methods. It is not original agronomic research, and its findings should not be applied to a real paddock.
 
 ## 🎯 The Question
