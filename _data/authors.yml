@@ -9,4 +9,13 @@ Moshraf Hossain:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://moshraf.github.io"
+    - label: "Résumé"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/resume/moshraf_hossain_resume.pdf"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/moshraf"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/moshrafhossain/"
  
