@@ -19,11 +19,10 @@ I'm a **Data Analyst** with 3+ years of experience and hands-on **GIS Analyst** 
 
 ## Featured Work
 
-Explore my **[portfolio of projects](/mywork)** showcasing dashboards, automation solutions, and spatial analysis, or read my **[latest articles](/mywriting)** on data analytics and visualisation best practices.
+Explore my **[portfolio of projects](/mywork)**, including dashboards, automation solutions and GIS spatial analysis.
 
 ### Quick Links
-- [View My Projects](/mywork) – Dashboards, GIS analysis, automation solutions  
-- [Read My Articles](/mywriting) – Analytics insights and data visualisation tips  
+- [View My Projects](/mywork) – Dashboards, GIS analysis, automation solutions   
 - [About Me](/about) – Background, skills, and experience  
 - [Connect on LinkedIn](https://linkedin.com/in/moshrafhossain)
 
