@@ -6,7 +6,7 @@ tags: [gis]
 author_profile: true
 author: Moshraf Hossain
 categories: work
-highlight_home: false
+highlight_home: true
 tagline: "Exploring wheat yield and nitrogen treatments with ArcGIS Pro and Jupyter Notebook"
 header:
   overlay_color: "#2c4a5e"
