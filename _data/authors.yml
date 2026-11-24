@@ -1,7 +1,7 @@
 Moshraf Hossain:
   name        : "Moshraf Hossain"
   bio         : "Let's talk about data! Reach out via the links below."
-  avatar      : "https://placehold.co/400"
+  avatar      : "/assets/images/Moshraf_Hossain.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
