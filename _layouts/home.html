@@ -21,6 +21,9 @@ layout: archive
     {% endfor %}
 </div>
 
+{% assign has_articles = false %}
+{% for post in posts %}{% if post.highlight_home and post.categories contains 'article' %}{% assign has_articles = true %}{% endif %}{% endfor %}
+{% if has_articles %}
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "My Favorite Articles" }}</h3>
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
@@ -29,5 +32,6 @@ layout: archive
     {% endif %}
     {% endfor %}
 </div>
+{% endif %}
 
 {% include paginator.html %}
