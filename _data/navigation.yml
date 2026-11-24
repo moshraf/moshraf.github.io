@@ -4,7 +4,5 @@ main:
     url: "/"
   - title: "My Work"
     url: "/mywork"
-  - title: "My Writing"
-    url: "/mywriting"
   - title: "About Me"
     url: "/about"
