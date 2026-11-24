@@ -2,6 +2,8 @@
 layout: archive
 title: About
 permalink: /about/
+author: Moshraf Hossain
+author_profile: true
 ---
 
 # Hi! I'm Moshraf Hossain
