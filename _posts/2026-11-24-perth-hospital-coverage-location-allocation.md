@@ -6,7 +6,7 @@ tags: [gis]
 author_profile: true
 author: Moshraf Hossain
 categories: work
-highlight_home: false
+highlight_home: true
 tagline: "Network-based location-allocation in ArcGIS Pro for pandemic testing-clinic planning"
 excerpt: "Network analysis and spatial optimisation for Greater Perth, using SA2 demand points weighted by 2021 Census population, spatial data validation and candidate testing-clinic selection in ArcGIS Pro."
 header:
