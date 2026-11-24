@@ -8,6 +8,7 @@ author: Moshraf Hossain
 categories: work
 highlight_home: true
 tagline: "Exploring wheat yield and nitrogen treatments with ArcGIS Pro and Jupyter Notebook"
+excerpt: "Spatial analysis of wheat yield and nitrogen treatments in ArcGIS Pro, using Moving Window Kriging, Local Bivariate Relationships and pairwise Z-tests on a supplied teaching dataset."
 header:
   overlay_color: "#2c4a5e"
   teaser: /assets/images/wheat-nitrogen/fig2_interpolated_yield_kriging.png
