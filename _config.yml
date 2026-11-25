@@ -57,3 +57,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Stop GitHub Pages turning the first heading into a duplicate page title
+titles_from_headings:
+  enabled: false
