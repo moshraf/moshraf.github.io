@@ -12,7 +12,7 @@ Six years mapping rock formations and testing soil in the field. The last few ye
 I'm a **Data Analyst** with 3+ years of experience and hands-on **GIS Analyst** experience, turning complex business and geospatial data into decision-ready insights. I specialise in **Tableau, Power BI, Python, SQL, and GIS (ArcGIS Pro, QGIS)**, delivering analytics solutions across marketing, R&D, and operations. With a background spanning geology, geotechnical engineering, and data science, I bring a practical, well-rounded perspective to problem-solving.
 
 **Currently:** Data Visualisation Analyst at Musimorph, Sydney  
-**Open to:** Data Analyst, Business Intelligence Analyst, or GIS Analyst roles
+**Open to:** GIS Analyst, Data Analyst or Business Intelligence Analyst roles, with relocation anywhere in Australia, including regional, remote and FIFO positions
 
 ---
 
