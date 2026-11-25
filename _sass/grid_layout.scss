@@ -1,27 +1,27 @@
+/* Project cards: soft border, rounded corners, hover shadow */
 .archive__item {
-    /* position: relative; */
-    padding: 0.5em;
-    border: thin solid #ccc;
+    padding: 0.75em;
+    border: 1px solid #E1E5EA;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    transition: box-shadow 0.2s ease;
+}
+
+.archive__item:hover {
+    box-shadow: 0 4px 14px rgba(11, 37, 69, 0.12);
 }
 
 @media only screen and (min-width: 900px) {
-.work .grid__item .archive__item {
-    min-height: 13em;
-}
+    .work .grid__item .archive__item {
+        min-height: 13em;
+    }
 
-article.archive__item {
-    min-height: 17em;
-}
-}
-
-@media only screen and (max-width: 900px) {
-    .archive__item-teaser img {
-        height: auto !important;
-        width: 100% !important;
-        position: absolute;
-        top: -50%;
+    article.archive__item {
+        min-height: 17em;
     }
 }
+
+/* Card text sizes */
 @media (min-width: 48em) {
     .grid__item .archive__item .archive__item-excerpt {
         font-size: 0.7em;
@@ -32,13 +32,29 @@ article.archive__item {
     font-size: 0.9em;
 }
 
+/* Card titles in navy */
+.archive__item-title a,
+.archive__item-title a:visited {
+    color: #0B2545;
+}
+
+/* Card images: same height on every card, filled evenly without stretching */
 .archive__item-teaser {
-    border: thin solid #ccc;
-    height: 95px;
+    border: none;
+    border-radius: 6px;
+    overflow: hidden;
+    height: 120px;
 
     img {
-        width: 120%;
-        max-width: 120%;
-        height: 120%
+        width: 100%;
+        max-width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .archive__item-teaser {
+        height: 180px;
     }
 }
