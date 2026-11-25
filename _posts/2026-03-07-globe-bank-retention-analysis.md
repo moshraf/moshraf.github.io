@@ -8,6 +8,7 @@ author: Moshraf Hossain
 categories: work
 highlight_home: true
 tagline: "Uncovering the drivers of customer churn through end-to-end Python data analysis"
+excerpt: "End-to-end Python analysis of customer churn across 10,127 bank customers, covering EDA, feature engineering, statistical analysis and Random Forest modelling."
 header:
   overlay_image: https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&auto=format&fit=crop
   teaser: /assets/images/globe-bank/04_top_churn_drivers.png
