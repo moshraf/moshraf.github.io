@@ -8,6 +8,7 @@ author: Moshraf Hossain
 categories: work
 highlight_home: true
 tagline: "Transforming fragmented training data into executive-ready insights"
+excerpt: "Interactive Power BI dashboard for training analytics, built on a star schema data model with DAX measures."
 header:
   overlay_image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&auto=format&fit=crop
   teaser: /assets/images/training-dashboard/page1-executive-overview.png
