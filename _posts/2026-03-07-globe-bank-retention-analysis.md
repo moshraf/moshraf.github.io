@@ -10,7 +10,7 @@ highlight_home: true
 tagline: "Uncovering the drivers of customer churn through end-to-end Python data analysis"
 header:
   overlay_image: https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&auto=format&fit=crop
-  teaser: https:/assets/images/globe-bank/04_top_churn_drivers.png
+  teaser: /assets/images/globe-bank/04_top_churn_drivers.png
   caption: "Photo credit: [**Unsplash: Sean Pollock**](https://unsplash.com/@seanpollock)"
 description: An end-to-end Python data analysis project uncovering the key drivers of customer churn across 10,127 bank customers — covering EDA, feature engineering, statistical analysis, Random Forest modelling, and data storytelling.
 ---
