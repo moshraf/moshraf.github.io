@@ -1,17 +1,41 @@
+/* Top bar (masthead): navy with white text */
 .masthead {
-    background-color: #F9D423
+    background-color: #0B2545;
+    border-bottom: none;
 }
 
 #site-nav {
     background-color: transparent;
 }
 
-#site-nav a,
-#site-nav a:visited {
-    color: #F9D423;
+/* Site name and menu links in the navy bar */
+.masthead .site-title,
+.masthead .site-title:visited,
+#site-nav .visible-links a,
+#site-nav .visible-links a:visited {
+    color: #FFFFFF;
+    font-family: "Rubik";
 }
 
-#site-nav a,
-#site-nav a:visited {
+/* Underline that appears when you hover over a menu link */
+#site-nav .visible-links a:before {
+    background: #FFFFFF;
+}
+
+/* Phone drop-down menu has a white background, so keep its links navy */
+#site-nav .hidden-links a,
+#site-nav .hidden-links a:visited {
+    color: #0B2545;
     font-family: "Rubik";
+}
+
+/* Search icon and phone menu icon (three lines) */
+.masthead .search__toggle {
+    color: #FFFFFF;
+}
+
+.masthead .greedy-nav__toggle:not(.close) .navicon,
+.masthead .navicon:before,
+.masthead .navicon:after {
+    background: #FFFFFF;
 }
