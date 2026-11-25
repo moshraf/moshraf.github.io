@@ -66,7 +66,7 @@ Sensitive data has been anonymised or replaced with representative examples wher
 
 ## Work With Me
 
-I’m open to opportunities as a **Data Analyst, Business Intelligence Analyst, or GIS Analyst** in Sydney, where I can contribute through data visualisation, automation, and analytics-driven decision support.
+I’m open to opportunities as a **GIS Analyst, Data Analyst or Business Intelligence Analyst**. I’m based in Sydney and open to relocation anywhere in Australia, including regional, remote and FIFO roles. I can contribute through spatial analysis, data visualisation, automation and analytics-driven decision support.
 
 **What I offer:**
 - Executive-ready dashboards (Power BI & Tableau)
