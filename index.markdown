@@ -4,7 +4,6 @@ author: Moshraf Hossain
 author_profile: true
 ---
 
-![Moshraf Hossain](/assets/images/Moshraf_Hossain.jpg){: .avatar}
 
 # Hi! I'm Moshraf Hossain
 
