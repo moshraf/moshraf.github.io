@@ -85,7 +85,7 @@ This diverse experience—from field geology to data visualisation—enables me 
 
 I work as a **Data Visualisation Analyst at Musimorph** in Sydney, developing analytics solutions for marketing, R&D, and competitive intelligence.
 
-I'm open to opportunities as a **Data Analyst, Business Intelligence Analyst, or GIS Analyst** where I can apply proven expertise in data visualisation, automation, and spatial analysis to drive measurable business outcomes.
+I'm open to opportunities as a **GIS Analyst, Data Analyst or Business Intelligence Analyst**, including relocation anywhere in Australia for regional, remote and FIFO roles, where I can apply my skills in spatial analysis, data visualisation and automation.
 
 ---
 
