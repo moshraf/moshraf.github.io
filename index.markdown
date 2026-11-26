@@ -18,20 +18,15 @@ I bring curiosity and care to spatial analysis, optimisation, cartography and da
 
 ## Featured Work
 
-Explore my **[portfolio of projects](/mywork)**, including dashboards, automation solutions and GIS spatial analysis.
-
-### Quick Links
-- [View My Projects](/mywork) – Dashboards, GIS analysis, automation solutions   
-- [About Me](/about) – Background, skills, and experience  
-- [Connect on LinkedIn](https://linkedin.com/in/moshrafhossain)
+Explore my **[portfolio of projects](/mywork)**, including GIS spatial analysis, dashboards and automation solutions.
 
 ---
 
 ## Key Skills & Expertise
 
-**Data Visualisation & BI:** Tableau, Power BI, Advanced Excel – building dashboards and reporting frameworks  
+**GIS & Spatial Analysis:** ArcGIS Pro, QGIS, PostgreSQL, GeoPandas – spatial analysis, network analysis, location-allocation and cartography  
+**Data Visualisation & BI:** Power BI, Tableau, Advanced Excel – building dashboards and reporting frameworks  
 **Programming & Automation:** Python (Pandas, NumPy, GeoPandas), SQL, VBA – automating workflows and ETL pipelines  
-**GIS & Spatial Analysis:** ArcGIS Pro, QGIS, GeoPandas, location intelligence, geospatial visualisations  
 **Cloud & Tools:** Google Cloud Platform, Git, Power Query  
 
 ---
@@ -39,14 +34,6 @@ Explore my **[portfolio of projects](/mywork)**, including dashboards, automatio
 ## Current Focus
 
 I develop analytics solutions that combine business intelligence with geospatial insights. My work includes:  
-- Interactive dashboards tracking KPIs, R&D investments, and marketing performance  
-- Python, SQL, and VBA workflows that reduce manual reporting from days to hours  
-- GIS analysis for operational planning and location-based decision-making  
-
----
-
-## Let's Connect
-
-**📊 Portfolio:** [moshraf.github.io](https://moshraf.github.io/)  
-**💼 LinkedIn:** [linkedin.com/in/moshrafhossain](https://linkedin.com/in/moshrafhossain)  
-**📧 Email:** mmoshraf@gmail.com
+- Interactive dashboards tracking KPIs, R&D investments and marketing performance  
+- Python, SQL and VBA workflows that reduce manual reporting effort  
+- GIS analysis for operational planning and location-based decision-making
