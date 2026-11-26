@@ -28,6 +28,9 @@ Projects are organised automatically by **tags** below.
 
 ## Core Project Areas
 
+### 🗺️ Geospatial Analysis & GIS
+Spatial analysis and mapping in ArcGIS Pro and QGIS, including network analysis, location-allocation, geostatistical interpolation, spatial statistics and cartography to support planning and location-based decisions.
+
 ### 📊 Data Visualisation & Business Intelligence
 Tableau and Power BI dashboards designed for executives and operational teams to track KPIs, analyse performance, and support strategic decisions.
 
@@ -35,11 +38,7 @@ Tableau and Power BI dashboards designed for executives and operational teams to
 SQL- and Python-driven analysis including customer segmentation, trend analysis, and competitive intelligence across multiple datasets.
 
 ### ⚙️ Automation & Reporting
-Python, SQL, and Excel/VBA solutions that automate data preparation and reporting, significantly reducing manual processing time.
-
-### 🗺️ Geospatial Analysis & GIS
-Spatial analysis and mapping projects combining GIS data with business intelligence to support planning, operations, and demographic analysis.
-
+Python, SQL, and Excel/VBA solutions that automate data preparation and reporting to reduce manual processing time.
 ---
 
 ## Technology Focus
