@@ -177,7 +177,7 @@ globe-bank-retention-analysis/
 **Process lessons:**
 
 - Working notebook by notebook keeps complexity manageable  
-- A beginner can produce portfolio-ready, structured, and clean work
+- Clear structure and documentation make the analysis easy to review and reproduce
 
 ---
 
