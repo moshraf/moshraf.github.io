@@ -6,9 +6,9 @@ author: Moshraf Hossain
 ---
 
 
-Welcome to my portfolio — dashboards, analysis, automation, and GIS projects built to answer real business questions: what's driving this trend, where should this go, how do we stop doing this by hand.
+Welcome to my portfolio — GIS projects, dashboards, analysis and automation built to answer real questions: where is this happening, what's driving this trend, and how do we stop doing this by hand.
 
-I work across **marketing, operations, R&D, and business intelligence**, using **Tableau, Power BI, Python, SQL, ArcGIS Pro, QGIS, and Excel** to get from raw data to something a business can actually act on.
+I use **ArcGIS Pro, QGIS, PostgreSQL, Python, SQL, Power BI, Tableau and Excel** to get from raw data to maps and insights that people can actually act on.
 
 ---
 
@@ -16,10 +16,10 @@ I work across **marketing, operations, R&D, and business intelligence**, using *
 
 Each project demonstrates one or more of the following:
 
+- Geospatial analysis, from network analysis and location-allocation to interpolation and cartography  
 - Interactive dashboards for KPI tracking and performance monitoring  
 - Data analysis using SQL and Python to uncover trends and insights  
 - Automated reporting workflows that reduce manual effort  
-- Geospatial analysis combining location intelligence with business data  
 - End-to-end analytics solutions from raw data to decision-ready outputs  
 
 Projects are organised automatically by **tags** below.
@@ -46,21 +46,21 @@ Python, SQL, and Excel/VBA solutions that automate data preparation and reportin
 
 Projects on this page primarily use:
 
+- **ArcGIS Pro & QGIS** — spatial analysis and geospatial visualisation  
 - **Power BI & Tableau** — dashboards and executive reporting  
 - **Python & SQL** — analysis, automation, and ETL workflows  
-- **ArcGIS Pro & QGIS** — spatial analysis and geospatial visualisation  
 - **Excel & VBA** — advanced reporting and process automation  
 
 ---
 
 ## Professional Context
 
-These projects reflect work delivered across industries including:
+My professional experience spans:
 
 **Marketing Analytics • Operations • R&D • Infrastructure • Geotechnical • Resources**
 
-All professional work respects client confidentiality.  
-Sensitive data has been anonymised or replaced with representative examples where required.
+Some projects are university coursework or use supplied teaching datasets, as noted on each project page.  
+All professional work respects client confidentiality. Sensitive data has been anonymised or replaced with representative examples where required.
 
 ---
 
@@ -69,18 +69,8 @@ Sensitive data has been anonymised or replaced with representative examples wher
 I’m open to opportunities as a **GIS Analyst, Data Analyst or Business Intelligence Analyst**. I’m based in Sydney and open to relocation anywhere in Australia, including regional, remote and FIFO roles. I can contribute through spatial analysis, data visualisation, automation and analytics-driven decision support.
 
 **What I offer:**
+- GIS and spatial analytics
 - Executive-ready dashboards (Power BI & Tableau)
 - SQL and Python-based data analysis
 - Automated reporting and ETL workflows
-- GIS and spatial analytics
 - Integrated, end-to-end BI solutions
-
----
-
-## Get in Touch
-
-**📧 Email:** [mmoshraf@gmail.com](mailto:mmoshraf@gmail.com)  
-**💼 LinkedIn:** [linkedin.com/in/moshrafhossain](https://linkedin.com/in/moshrafhossain)  
-**🌐 GitHub:** [github.com/moshraf](https://github.com/moshraf)  
-**📄 Resume:** [Download PDF]({{ site.baseurl }}/assets/resume/moshraf_hossain_resume.pdf)
-
