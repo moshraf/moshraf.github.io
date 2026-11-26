@@ -21,6 +21,18 @@ layout: archive
     {% endfor %}
 </div>
 
+<p style="clear: both;"><a href="/mywork"><strong>See all projects →</strong></a></p>
+
+{% capture home_skills %}
+## Key Skills
+
+- **GIS & Spatial Analysis:** ArcGIS Pro, QGIS, PostgreSQL, GeoPandas – network analysis, location-allocation and cartography
+- **Data Visualisation & BI:** Power BI, Tableau, Advanced Excel
+- **Programming & Automation:** Python (Pandas, NumPy), SQL, VBA
+- **Cloud & Tools:** Google Cloud Platform, Git, Power Query
+{% endcapture %}
+{{ home_skills | markdownify }}
+
 {% assign has_articles = false %}
 {% for post in posts %}{% if post.highlight_home and post.categories contains 'article' %}{% assign has_articles = true %}{% endif %}{% endfor %}
 {% if has_articles %}
