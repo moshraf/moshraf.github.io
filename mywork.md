@@ -39,6 +39,7 @@ SQL- and Python-driven analysis including customer segmentation, trend analysis,
 
 ### ⚙️ Automation & Reporting
 Python, SQL, and Excel/VBA solutions that automate data preparation and reporting to reduce manual processing time.
+
 ---
 
 ## Technology Focus
