@@ -582,10 +582,10 @@ If deployed in a real organization, this dashboard would deliver:
 
 ### **Why This Project Matters for My Career**
 
-As a recent **Master of Data Science graduate**, this project demonstrates my readiness for Data Analyst roles by showcasing:
+This project shows the skills I bring to data and reporting work:
 
 **End-to-End Capability:**
-- I didn't just analyze existing dashboards—I built one from scratch, from data import to final visualization
+- I didn't just analyse existing dashboards—I built one from scratch, from data import to final visualization
 
 **Business Acumen:**
 - I translated an ambiguous business problem (L&D teams need visibility) into specific, actionable features
