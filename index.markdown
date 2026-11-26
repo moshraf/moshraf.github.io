@@ -7,9 +7,7 @@ author_profile: true
 
 # Hi! I'm Moshraf Hossain
 
-Six years mapping rock formations and testing soil in the field. The last few years building dashboards and pipelines in an office. Right now I do both — because the same instinct (where is this happening, and why does it matter) drives each one.
-
-I'm a **Data Analyst** with 3+ years of experience and hands-on **GIS Analyst** experience, turning complex business and geospatial data into decision-ready insights. I specialise in **Tableau, Power BI, Python, SQL, and GIS (ArcGIS Pro, QGIS)**, delivering analytics solutions across marketing, R&D, and operations. With a background spanning geology, geotechnical engineering, and data science, I bring a practical, well-rounded perspective to problem-solving.
+I'm a **GIS and Data Analyst** with a background in geology, coal exploration and geotechnical laboratory testing. I combine practical field experience with spatial data management, quality assurance, analysis and reporting to support informed decisions.
 
 **Currently:** Data Visualisation Analyst at Musimorph, Sydney  
 **Open to:** GIS Analyst, Data Analyst or Business Intelligence Analyst roles, with relocation anywhere in Australia, including regional, remote and FIFO positions
